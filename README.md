@@ -28,4 +28,12 @@
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0442-find-all-duplicates-in-an-array) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

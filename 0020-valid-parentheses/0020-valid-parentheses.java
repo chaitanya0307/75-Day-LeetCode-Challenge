@@ -5,13 +5,13 @@ class Solution {
             if(x=='(' || x=='{' || x=='['){
                 l.addLast(x);
             }
-            else if (l.size() != 0 && x == ')' && l.get(l.size() - 1) == '(') {
+            else if (l.size() != 0 && x == ')' && l.peekLast() == '(') {
              l.removeLast();
             }
-            else if (l.size() != 0 && x == '}' && l.get(l.size() - 1) == '{') {
+            else if (l.size() != 0 && x == '}' && l.peekLast() == '{') {
              l.removeLast();
             }
-            else if (l.size() != 0 && x == ']' && l.get(l.size() - 1) == '[') {
+            else if (l.size() != 0 && x == ']' && l.peekLast() == '[') {
              l.removeLast();
             }
             else{

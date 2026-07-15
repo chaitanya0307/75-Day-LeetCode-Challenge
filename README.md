@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0001-two-sum) |
 | [0287-find-the-duplicate-number](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,10 +17,12 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0287-find-the-duplicate-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0287-find-the-duplicate-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Bit Manipulation
 |  |
 | ------- |

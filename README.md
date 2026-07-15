@@ -20,6 +20,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0020-valid-parentheses](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -47,4 +49,8 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0009-palindrome-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->

@@ -18,6 +18,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0344-reverse-string](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0020-valid-parentheses) |
+| [0344-reverse-string](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0344-reverse-string) |
 ## Stack
 |  |
 | ------- |

@@ -8,6 +8,7 @@
 | [0287-find-the-duplicate-number](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [0344-reverse-string](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0392-is-subsequence) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Binary Search
 |  |
 | ------- |

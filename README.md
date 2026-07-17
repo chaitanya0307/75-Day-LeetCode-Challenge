@@ -9,6 +9,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0204-count-primes](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0009-palindrome-number) |
+| [0204-count-primes](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0204-count-primes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,4 +65,12 @@
 | [0595-big-countries](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1683-invalid-tweets) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

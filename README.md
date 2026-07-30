@@ -70,6 +70,7 @@
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [0197-rising-temperature](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0197-rising-temperature) |
 | [1661-average-time-of-process-per-machine](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1661-average-time-of-process-per-machine) |
+| [0577-employee-bonus](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0577-employee-bonus) |
 ## Enumeration
 |  |
 | ------- |

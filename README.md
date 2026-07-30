@@ -68,6 +68,7 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1068-product-sales-analysis-i](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1068-product-sales-analysis-i) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [0197-rising-temperature](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0197-rising-temperature) |
 ## Enumeration
 |  |
 | ------- |

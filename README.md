@@ -92,6 +92,7 @@
 | [0141-linked-list-cycle](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0876-middle-of-the-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0328-odd-even-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |

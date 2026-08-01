@@ -27,6 +27,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0148-sort-list) |
+| [0876-middle-of-the-linked-list](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0148-sort-list) |
+| [0876-middle-of-the-linked-list](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |

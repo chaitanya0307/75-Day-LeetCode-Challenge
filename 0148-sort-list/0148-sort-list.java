@@ -17,7 +17,6 @@ class Solution {
             head=head.next;
         }
         Collections.sort(a);
-        System.out.print(a);
         head=l;
         int i=0;
         while(head!=null){

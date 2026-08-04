@@ -82,6 +82,7 @@
 | [1280-students-and-examinations](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1280-students-and-examinations) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1211-queries-quality-and-percentage](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1211-queries-quality-and-percentage) |
+| [1193-monthly-transactions-i](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1193-monthly-transactions-i) |
 ## Enumeration
 |  |
 | ------- |

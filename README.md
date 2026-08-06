@@ -84,6 +84,7 @@
 | [1211-queries-quality-and-percentage](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1211-queries-quality-and-percentage) |
 | [1193-monthly-transactions-i](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1193-monthly-transactions-i) |
 | [0596-classes-with-at-least-5-students](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0596-classes-with-at-least-5-students) |
+| [1729-find-followers-count](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1729-find-followers-count) |
 ## Enumeration
 |  |
 | ------- |

@@ -87,6 +87,7 @@
 | [1729-find-followers-count](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1729-find-followers-count) |
 | [1045-customers-who-bought-all-products](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1045-customers-who-bought-all-products) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+| [1789-primary-department-for-each-employee](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1789-primary-department-for-each-employee) |
 ## Enumeration
 |  |
 | ------- |

@@ -85,6 +85,7 @@
 | [1193-monthly-transactions-i](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1193-monthly-transactions-i) |
 | [0596-classes-with-at-least-5-students](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0596-classes-with-at-least-5-students) |
 | [1729-find-followers-count](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1729-find-followers-count) |
+| [1045-customers-who-bought-all-products](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1045-customers-who-bought-all-products) |
 ## Enumeration
 |  |
 | ------- |

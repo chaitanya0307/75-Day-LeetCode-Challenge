@@ -88,6 +88,7 @@
 | [1045-customers-who-bought-all-products](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1045-customers-who-bought-all-products) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1789-primary-department-for-each-employee) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1327-list-the-products-ordered-in-a-period) |
 ## Enumeration
 |  |
 | ------- |

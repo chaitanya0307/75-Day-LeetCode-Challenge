@@ -90,6 +90,7 @@
 | [1789-primary-department-for-each-employee](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1789-primary-department-for-each-employee) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1484-group-sold-products-by-the-date](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1484-group-sold-products-by-the-date) |
+| [0176-second-highest-salary](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0176-second-highest-salary) |
 ## Enumeration
 |  |
 | ------- |

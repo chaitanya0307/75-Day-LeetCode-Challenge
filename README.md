@@ -94,6 +94,7 @@
 | [0196-delete-duplicate-emails](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0196-delete-duplicate-emails) |
 | [1527-patients-with-a-condition](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1667-fix-names-in-a-table) |
+| [0585-investments-in-2016](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0585-investments-in-2016) |
 ## Enumeration
 |  |
 | ------- |

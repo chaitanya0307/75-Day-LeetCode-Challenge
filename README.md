@@ -95,6 +95,7 @@
 | [1527-patients-with-a-condition](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1667-fix-names-in-a-table) |
 | [0585-investments-in-2016](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0585-investments-in-2016) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Enumeration
 |  |
 | ------- |

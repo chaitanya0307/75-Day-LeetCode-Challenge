@@ -99,6 +99,7 @@
 | [0620-not-boring-movies](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0620-not-boring-movies) |
 | [1251-average-selling-price](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1251-average-selling-price) |
 | [1075-project-employees-i](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1075-project-employees-i) |
+| [1633-percentage-of-users-attended-a-contest](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1633-percentage-of-users-attended-a-contest) |
 ## Enumeration
 |  |
 | ------- |

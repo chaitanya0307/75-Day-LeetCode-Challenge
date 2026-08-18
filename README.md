@@ -96,6 +96,7 @@
 | [1667-fix-names-in-a-table](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1667-fix-names-in-a-table) |
 | [0585-investments-in-2016](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0585-investments-in-2016) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1978-employees-whose-manager-left-the-company) |
+| [0620-not-boring-movies](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0620-not-boring-movies) |
 ## Enumeration
 |  |
 | ------- |

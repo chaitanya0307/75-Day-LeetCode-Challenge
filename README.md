@@ -102,6 +102,7 @@
 | [1633-percentage-of-users-attended-a-contest](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [0619-biggest-single-number](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0619-biggest-single-number) |
 ## Enumeration
 |  |
 | ------- |

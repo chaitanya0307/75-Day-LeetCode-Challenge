@@ -10,6 +10,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0204-count-primes](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0204-count-primes) |
+| [0643-maximum-average-subarray-i](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,4 +135,8 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0203-remove-linked-list-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->

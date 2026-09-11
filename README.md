@@ -12,12 +12,14 @@
 | [0204-count-primes](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0204-count-primes) |
 | [0643-maximum-average-subarray-i](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0704-binary-search) |
+| [0268-missing-number](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0001-two-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0141-linked-list-cycle](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0141-linked-list-cycle) |
+| [0268-missing-number](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,15 +40,18 @@
 | [0287-find-the-duplicate-number](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0704-binary-search) |
+| [0268-missing-number](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0287-find-the-duplicate-number) |
+| [0268-missing-number](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0148-sort-list](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0148-sort-list) |
+| [0268-missing-number](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -65,6 +70,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |

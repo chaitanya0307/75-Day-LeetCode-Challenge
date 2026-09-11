@@ -13,6 +13,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0704-binary-search) |
 | [0268-missing-number](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0268-missing-number) |
+| [0136-single-number](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0268-missing-number](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0268-missing-number) |
+| [0136-single-number](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0136-single-number) |
 ## Sorting
 |  |
 | ------- |

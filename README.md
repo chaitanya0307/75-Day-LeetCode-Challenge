@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0204-count-primes](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0204-count-primes) |
 | [0643-maximum-average-subarray-i](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |

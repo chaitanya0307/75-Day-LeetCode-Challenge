@@ -117,6 +117,7 @@
 | [0619-biggest-single-number](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0619-biggest-single-number) |
 | [1070-product-sales-analysis-iii](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1070-product-sales-analysis-iii) |
 | [1934-confirmation-rate](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1934-confirmation-rate) |
+| [1174-immediate-food-delivery-ii](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1174-immediate-food-delivery-ii) |
 ## Enumeration
 |  |
 | ------- |

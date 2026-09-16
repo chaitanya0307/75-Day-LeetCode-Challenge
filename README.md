@@ -120,6 +120,7 @@
 | [1174-immediate-food-delivery-ii](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1174-immediate-food-delivery-ii) |
 | [0610-triangle-judgement](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0610-triangle-judgement) |
 | [0180-consecutive-numbers](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0180-consecutive-numbers) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1204-last-person-to-fit-in-the-bus) |
 ## Enumeration
 |  |
 | ------- |

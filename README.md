@@ -123,6 +123,7 @@
 | [1204-last-person-to-fit-in-the-bus](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [0550-game-play-analysis-iv](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0550-game-play-analysis-iv) |
 | [1164-product-price-at-a-given-date](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1164-product-price-at-a-given-date) |
+| [0626-exchange-seats](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0626-exchange-seats) |
 ## Enumeration
 |  |
 | ------- |

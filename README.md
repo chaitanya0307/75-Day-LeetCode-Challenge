@@ -121,6 +121,7 @@
 | [0610-triangle-judgement](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0610-triangle-judgement) |
 | [0180-consecutive-numbers](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0180-consecutive-numbers) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1204-last-person-to-fit-in-the-bus) |
+| [0550-game-play-analysis-iv](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0550-game-play-analysis-iv) |
 ## Enumeration
 |  |
 | ------- |

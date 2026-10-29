@@ -128,6 +128,7 @@
 | [1321-restaurant-growth](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1321-restaurant-growth) |
 | [0185-department-top-three-salaries](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/0185-department-top-three-salaries) |
 | [1517-find-users-with-valid-e-mails](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1517-find-users-with-valid-e-mails) |
+| [1907-count-salary-categories](https://github.com/chaitanya0307/75-Day-LeetCode-Challenge/tree/master/1907-count-salary-categories) |
 ## Enumeration
 |  |
 | ------- |
